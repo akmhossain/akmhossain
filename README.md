@@ -1,5 +1,5 @@
 ## Infinite Salutations 👋
-# AKM Hossain | Software Developer & ML engineer 
+# AKM Hossain | Software Developer | ML engineer 
 
 Aspiring full stack developer with hands-on experience in building functional websites.
 I focus on **readable code, efficient problem solving, and staying curious.**
