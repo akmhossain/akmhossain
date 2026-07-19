@@ -7,6 +7,13 @@ I focus on **readable code, efficient problem solving, and staying curious.**
 - 🎓 Computer Science & Mathematics at Hunter College
 - 💻 Skills: Web Development, Machine Learning, Wireframing 
 - 🌱 Currently learning: Computer Architecture, Operating Systems
+- 🧑🏾‍💻 Professional Paths: SWE Frontend Developer, ML/AI Engineer, Data Scientist
+
+--- 
+
+### Contact Me
+Email: mailto:akmhossain101@gmail.com
+LinkedIn: https://www.linkedin.com/in/akmhossain 
 
 ---
 
