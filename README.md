@@ -13,6 +13,7 @@ I focus on **readable code, efficient problem solving, and staying curious.**
 
 ### Contact Me
 Email: mailto:akmhossain101@gmail.com
+
 LinkedIn: https://www.linkedin.com/in/akmhossain 
 
 ---
